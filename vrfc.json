@@ -1,1 +1,16 @@
-
+{
+	"lastver": "130",
+	"nlink": "https://github.com/Decodir/.luac",
+	"three": [
+		["Alexsandr_Wilde", 150],
+		["Svetlana_Wilde", 150],
+		["Name_Nick", 150]
+		],
+	"one": [
+		["Alex_Wil", 150],
+		["Svetlana_Wilde", 150],
+    ["Svetlana_Wilde", 150],
+		["Name_Nick", 330]
+		],
+	"two": []
+}
