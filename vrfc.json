@@ -1,5 +1,5 @@
 {
-	"lastver": "131",
+	"lastver": "130",
 	"nlink": "https://github.com/Decodir/AutoAD/raw/main/AutoAD.luac",
 	"three": [
 		["Name_Nick", 150],
@@ -7,7 +7,7 @@
 		],
 	"one": [
     		["Nenal_Cabrero", 150],
-		["Alex_Wilde", 150]
+		["Name_Nick", 150]
 		],
 	"two": []
 }
